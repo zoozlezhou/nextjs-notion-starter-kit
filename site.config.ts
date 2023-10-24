@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: '象形声',
-  domain: '   ',
+  domain: 'www.xingsz.com',
   author: '象形声',
 
   // open graph metadata (optional)
   description: '象形声',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+ // twitter: 'transitive_bs',
+ // github: 'transitive-bullshit',
+ // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
